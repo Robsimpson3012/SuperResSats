@@ -1,0 +1,3 @@
+Vanilla ESRT
+2x -> psnr:35.7784    ssim: 0.9433
+4x -> psnr:21.8976    ssim: 0.7813	
