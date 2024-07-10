@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But not these files...
+!test.ipynb
+!train.ipynb
+!fullSRTest.ipynb
+!Metrics.txt
+
+# ...even if they are in subdirectories
+!*/
